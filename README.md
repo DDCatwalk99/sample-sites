@@ -15,4 +15,4 @@
 ```
 
 npm Install list
-npm install --save-dev @babel/core react react-dom webpack webpack-dev-server webpack-cli babel-loader @babel/preset-env @babel/preset-react style-loader css-loader
+npm install --save-dev @babel/core react react-dom webpack webpack-dev-server webpack-cli babel-loader @babel/preset-env @babel/preset-react style-loader css-loader @material-ui/core @material-ui/icons @material-ui/lab
