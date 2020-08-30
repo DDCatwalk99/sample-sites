@@ -1,0 +1,33 @@
+{
+  "name": "sample-sites",
+  "version": "1.0.0",
+  "description": "First Directory\r .\r +--public\r | +--index.html\r +--src\r | +--index.js\r | +--App.js\r | +--App.css\r +--.babelrc\r +--webpack.config.js",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDCatwalk99/sample-sites.git"
+  },
+  "author": "DDCatwalk99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDCatwalk99/sample-sites/issues"
+  },
+  "homepage": "https://github.com/DDCatwalk99/sample-sites#readme"
+}
